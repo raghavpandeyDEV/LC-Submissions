@@ -60,5 +60,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0191-number-of-1-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2220-minimum-bit-flips-to-convert-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
