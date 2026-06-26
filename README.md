@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0134-gas-station) |
 | [0260-single-number-iii](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0260-single-number-iii) |
+| [0994-rotting-oranges](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0994-rotting-oranges) |
 | [1732-find-the-highest-altitude](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1732-find-the-highest-altitude) |
 ## Greedy
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0994-rotting-oranges](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0994-rotting-oranges) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0191-number-of-1-bits) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
