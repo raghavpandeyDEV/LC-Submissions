@@ -15,22 +15,23 @@ public:
         priority_queue<pair<int, ListNode*>, vector<pair<int, ListNode*>>,
                        greater<pair<int, ListNode*>>> pq;
 
-        ListNode*dummy=new ListNode(-1);
-        ListNode*temp=dummy;
 
-        for(int i=0;i<lists.size();i++){
-            if(lists[i]!=NULL)pq.push({lists[i]->val,lists[i]});
-            
-        }
-        while(!pq.empty()){
-            ListNode*node=pq.top().second;
-            if(node->next){
-                pq.push({node->next->val,node->next});
-            }
-            temp->next=node;
-            temp=temp->next;
-            pq.pop();
-        }
-        return dummy->next;
+     ListNode*dummy=new ListNode(-1);
+     ListNode*temp=dummy;
+
+       for(int i=0;i<lists.size();i++){
+        if(lists[i])pq.push({lists[i]->val,lists[i]});
+       }
+  
+       while(!pq.empty()){
+       ListNode*node=pq.top().second;
+       pq.pop();
+       if(node->next){
+        pq.push({node->next->val,node->next});
+       }
+       temp->next=node;
+       temp=temp->next;
+       }
+       return dummy->next;
     }
 };
