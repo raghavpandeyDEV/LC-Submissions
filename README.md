@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0052-n-queens-ii) |
 | [0093-restore-ip-addresses](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0093-restore-ip-addresses) |
 ## Two Pointers
 |  |
