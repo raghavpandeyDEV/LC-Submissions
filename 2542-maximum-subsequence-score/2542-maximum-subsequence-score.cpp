@@ -24,11 +24,13 @@ public:
         long long score=ksum*min_el;
         for(int i=k;i<nums1.size();i++){
             min_el=v[i].second;
-            pq.push(v[i].first);
-ksum += v[i].first;
 
-ksum -= pq.top();
-pq.pop();
+             ksum += v[i].first;
+            ksum -= pq.top();
+            pq.pop();
+             pq.push(v[i].first);
+
+
         
         score=max(score,1LL * min_el * ksum);
             
