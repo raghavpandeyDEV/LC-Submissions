@@ -12,34 +12,26 @@
 class Solution {
 public:
    bool isLeaf(TreeNode* node){
+     
     if(node->left ==NULL && node->right==NULL)return true;
     return false;
    }
-   void inorder(TreeNode* root , vector<int>&ans) {
-        
-        stack<TreeNode*>st;
-       TreeNode*node=root;
-        while(true){
-            while(node){
-                st.push(node);
-                node=node->left;
-            }
-            if(st.empty())break;
-            else{
-                node=st.top();
-                st.pop();
-               if(isLeaf(node))ans.push_back(node->val);
-                node=node->right;
-            }
-        }
-        
+   
+   void traverse(TreeNode*root , vector<int>&ans){
+    if(root == NULL) return;
+    if(isLeaf(root)){
+        ans.push_back(root->val);
+        return ;
     }
+    traverse(root->left,ans);
+    traverse(root->right,ans);
+   }
 
     bool leafSimilar(TreeNode* root1, TreeNode* root2) {
         vector<int>arr1;
-        inorder(root1,arr1);
+        traverse(root1,arr1);
         vector<int>arr2;
-        inorder(root2,arr2); 
+        traverse(root2,arr2); 
 
         if(arr1.size()!=arr2.size())return false;
 
