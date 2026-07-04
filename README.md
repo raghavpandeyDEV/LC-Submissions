@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0200-number-of-islands) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0802-find-eventual-safe-states](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0802-find-eventual-safe-states) |
+| [0841-keys-and-rooms](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0872-leaf-similar-trees) |
 | [1020-number-of-enclaves](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0200-number-of-islands) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0802-find-eventual-safe-states](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0802-find-eventual-safe-states) |
+| [0841-keys-and-rooms](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1020-number-of-enclaves) |
 ## Binary Search Tree
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0802-find-eventual-safe-states) |
+| [0841-keys-and-rooms](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0841-keys-and-rooms) |
 ## Topological Sort
 |  |
 | ------- |
