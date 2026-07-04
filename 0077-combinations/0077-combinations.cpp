@@ -1,16 +1,19 @@
 class Solution {
 public:
-   void solve(int i , int cnt , int k , vector<int>&nums,vector<int>&temp , vector<vector<int>>&ans){
-    if(cnt==k){
+   void solve(int i , int k , vector<int>&nums,vector<int>&temp , vector<vector<int>>&ans){
+   
+    if(temp.size()==k){
         ans.push_back(temp);
         return;
-    }
+    }   
     if(i>=nums.size())return;
+   
+   
     
     temp.push_back(nums[i]);
-    solve(i+1,cnt+1,k,nums,temp,ans);
+    solve(i+1,k,nums,temp,ans);
     temp.pop_back();
-    solve(i+1,cnt,k,nums,temp,ans);
+    solve(i+1,k,nums,temp,ans);
 
    }
     vector<vector<int>> combine(int n, int k) {
@@ -20,7 +23,7 @@ public:
         for(int i=1;i<=n;i++){
             nums.push_back(i);
         }
-        solve(0,0,k,nums,temp,ans);
+        solve(0,k,nums,temp,ans);
         return ans;
     }
 };
