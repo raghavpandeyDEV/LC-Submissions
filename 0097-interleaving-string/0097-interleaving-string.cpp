@@ -7,7 +7,7 @@ public:
         int N=m+n;
 
         if(i==n && j==m && i+j==N)return true;
-        if(i+j>=N)return false;//other string doesnt get consumed at all
+        
         if(dp[i][j]!=-1)return dp[i][j];
         bool result1=false;
         bool result2=false;
