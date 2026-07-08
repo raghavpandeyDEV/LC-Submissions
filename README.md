@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0056-merge-intervals) |
+| [0079-word-search](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0134-gas-station](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0134-gas-station) |
 | [0200-number-of-islands](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0200-number-of-islands) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0097-interleaving-string) |
 | [0127-word-ladder](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0127-word-ladder) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0093-restore-ip-addresses) |
 ## Two Pointers
 |  |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0079-word-search) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0133-clone-graph](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0200-number-of-islands) |
@@ -138,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1020-number-of-enclaves) |
