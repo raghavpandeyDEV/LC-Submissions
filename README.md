@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0044-wildcard-matching) |
+| [0062-unique-paths](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0097-interleaving-string) |
 | [0338-counting-bits](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0338-counting-bits) |
@@ -235,4 +236,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
