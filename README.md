@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0338-counting-bits) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0044-wildcard-matching) |
+| [0231-power-of-two](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0231-power-of-two) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0062-unique-paths) |
+| [0231-power-of-two](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0231-power-of-two) |
 ## Combinatorics
 |  |
 | ------- |
