@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0134-gas-station) |
 | [0200-number-of-islands](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -108,12 +110,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -144,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0023-merge-k-sorted-lists) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0191-number-of-1-bits](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Matrix
