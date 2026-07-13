@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0721-accounts-merge](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0721-accounts-merge) |
 | [0739-daily-temperatures](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1020-number-of-enclaves) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0097-interleaving-string) |
 | [0127-word-ladder](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0127-word-ladder) |
 | [0443-string-compression](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0443-string-compression) |
+| [0721-accounts-merge](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0721-accounts-merge) |
 ## Backtracking
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0721-accounts-merge](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0721-accounts-merge) |
 | [0802-find-eventual-safe-states](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0872-leaf-similar-trees) |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0721-accounts-merge](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0721-accounts-merge) |
 | [0802-find-eventual-safe-states](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0994-rotting-oranges) |
@@ -167,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0200-number-of-islands) |
+| [0721-accounts-merge](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0721-accounts-merge) |
 | [1020-number-of-enclaves](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -179,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0146-lru-cache) |
+| [0721-accounts-merge](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0721-accounts-merge) |
 ## Graph Theory
 |  |
 | ------- |
@@ -198,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0721-accounts-merge](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0721-accounts-merge) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2542-maximum-subsequence-score](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2542-maximum-subsequence-score) |
 ## Dynamic Programming
