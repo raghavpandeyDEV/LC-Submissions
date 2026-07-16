@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0721-accounts-merge](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0721-accounts-merge) |
+| [0743-network-delay-time](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0872-leaf-similar-trees) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0721-accounts-merge](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0721-accounts-merge) |
+| [0743-network-delay-time](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0994-rotting-oranges) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0133-clone-graph) |
+| [0743-network-delay-time](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0841-keys-and-rooms) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0743-network-delay-time](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0743-network-delay-time) |
 | [2542-maximum-subsequence-score](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2542-maximum-subsequence-score) |
 ## Merge Sort
 |  |
@@ -294,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
