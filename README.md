@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0062-unique-paths) |
 | [0231-power-of-two](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0231-power-of-two) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Combinatorics
 |  |
 | ------- |
@@ -309,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0743-network-delay-time) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
