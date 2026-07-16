@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1732-find-the-highest-altitude) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2542-maximum-subsequence-score](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2542-maximum-subsequence-score) |
 ## Greedy
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0678-valid-parenthesis-string](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0678-valid-parenthesis-string) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2542-maximum-subsequence-score](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2542-maximum-subsequence-score) |
 ## String
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0042-trapping-rain-water) |
 | [0443-string-compression](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0443-string-compression) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0721-accounts-merge](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0721-accounts-merge) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2542-maximum-subsequence-score](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2542-maximum-subsequence-score) |
 ## Dynamic Programming
 |  |
