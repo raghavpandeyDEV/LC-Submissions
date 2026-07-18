@@ -14,33 +14,30 @@ public:
         ListNode*dummy=new ListNode(-1);
         ListNode*temp=dummy;
 
-        ListNode*p1=list1;
-        ListNode*p2=list2;
-
-        while(p1 && p2){
-            if(p1->val<=p2->val){
-                temp->next=p1;
-                temp=temp->next;
-                p1=p1->next;
-            }
-            else{
-                temp->next=p2;
-                temp=temp->next;
-                p2=p2->next;
-            }
+        while(list1 && list2){
+           if(list1->val<=list2->val){
+            temp->next=list1;
+            temp=temp->next;
+            list1=list1->next;
+           }
+           else{
+            temp->next=list2;
+            temp=temp->next;
+            list2=list2->next;
+           }
         }
-        while(p1){
-            temp->next=p1;
-                temp=temp->next;
-                p1=p1->next;
-        }
+     
+     while(list1){
+         temp->next=list1;
+            temp=temp->next;
+            list1=list1->next;
+     }
 
-        while(p2){
-             temp->next=p2;
-                temp=temp->next;
-                p2=p2->next;
-        }
-
-        return dummy->next;
+     while(list2){
+         temp->next=list2;
+            temp=temp->next;
+            list2=list2->next;
+     }
+return dummy->next;
     }
 };
