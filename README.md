@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0063-unique-paths-ii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0093-restore-ip-addresses) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0138-copy-list-with-random-pointer) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0217-contains-duplicate) |
