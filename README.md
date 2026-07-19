@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0093-restore-ip-addresses) |
 ## Two Pointers
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0260-single-number-iii) |
