@@ -4,8 +4,8 @@ public:
         vector<vector<int>>ans;
         vector<int>ans0;
         vector<int>ans1;
-        map<int,int>mp1;
-        map<int,int>mp2;
+        unordered_map<int,int>mp1;
+        unordered_map<int,int>mp2;
 
         int s1=nums1.size();
         int s2=nums2.size();
@@ -13,18 +13,24 @@ public:
         for(int i=0;i<s1;i++){
             mp1[nums1[i]]++;
         }
+        // nlogn 
 
         for(int i=0;i<s2;i++){
             mp2[nums2[i]]++;
         }
+
+        //m log m
         
         for(auto it : mp1){
             if(mp2.find(it.first)==mp2.end())ans0.push_back(it.first);
         }
 
+        // n log m
+
         for(auto it : mp2){
             if(mp1.find(it.first)==mp1.end())ans1.push_back(it.first);
         }
+        //m log n
 
         ans.push_back(ans0);
         ans.push_back(ans1);
