@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0155-min-stack) |
+| [0933-number-of-recent-calls](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0933-number-of-recent-calls) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -374,4 +375,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2352-equal-row-and-column-pairs](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2352-equal-row-and-column-pairs) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
