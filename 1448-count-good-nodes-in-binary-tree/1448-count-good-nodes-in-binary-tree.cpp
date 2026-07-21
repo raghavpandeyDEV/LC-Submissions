@@ -11,18 +11,19 @@
  */
 class Solution {
 public:
-    void solve(TreeNode*root , int maxi , vector<int>&ans){
-        if(root==NULL)return;
+    void solve(TreeNode*root , int maxi , int&cnt){
+        if(root==NULL)return ;
 
-        if(root->val>=maxi)ans.push_back(root->val);
-        solve(root->left , max(maxi,root->val) , ans);
-        solve(root->right , max(maxi,root->val) , ans);
+        if(root->val>=maxi)cnt++;
+          solve(root->left , max(maxi,root->val) , cnt);
+          solve(root->right , max(maxi,root->val) , cnt);
+        
 
     }
     int goodNodes(TreeNode* root) {
-        vector<int>ans;
-        solve(root,root->val,ans);
-        return ans.size();
+        int cnt=0;
+        solve(root,root->val,cnt);
+        return cnt;
 
     }
 };
