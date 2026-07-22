@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0678-valid-parenthesis-string) |
+| [0763-partition-labels](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0763-partition-labels) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2542-maximum-subsequence-score](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2542-maximum-subsequence-score) |
 ## String
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0443-string-compression) |
 | [0678-valid-parenthesis-string](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0721-accounts-merge) |
+| [0763-partition-labels](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0763-partition-labels) |
 | [1048-longest-string-chain](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1048-longest-string-chain) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0075-sort-colors) |
 | [0443-string-compression](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0443-string-compression) |
+| [0763-partition-labels](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0763-partition-labels) |
 | [1048-longest-string-chain](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1048-longest-string-chain) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0721-accounts-merge) |
+| [0763-partition-labels](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0763-partition-labels) |
 | [1048-longest-string-chain](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1048-longest-string-chain) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2215-find-the-difference-of-two-arrays) |
