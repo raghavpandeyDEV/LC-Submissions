@@ -6,11 +6,9 @@ public:
        unordered_map<char,int>mpp; // {char , freq}
        for(int i=0;i<p.size();i++){
           mpp[p[i]]++;
-       }
-
-    
+       }  
      // map : remove ++ , insert --
-     
+
       for(int i=0;i<n;i++){
         mpp[s[i]]--;
         if(mpp[s[i]]==0)mpp.erase(s[i]);
@@ -19,6 +17,7 @@ public:
 
       int l=0;
       int r=n-1;
+      
       while(r<s.size()-1){
         r++;
         mpp[s[r]]--;
@@ -27,12 +26,9 @@ public:
         mpp[s[l]]++;
         if (mpp[s[l]] == 0)
        mpp.erase(s[l]);
-        l++;
-        
-        
+        l++;      
         if(mpp.size()==0)ans.push_back(l);
       }
-
    return ans;
     }
 };
