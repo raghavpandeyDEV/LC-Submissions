@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0097-interleaving-string) |
+| [0125-valid-palindrome](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0127-word-ladder) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0443-string-compression) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0443-string-compression) |
 | [0763-partition-labels](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0763-partition-labels) |
 | [1048-longest-string-chain](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1048-longest-string-chain) |
