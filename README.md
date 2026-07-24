@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0368-largest-divisible-subset) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1071-greatest-common-divisor-of-strings) |
