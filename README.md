@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0127-word-ladder) |
+| [0383-ransom-note](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0443-string-compression) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0217-contains-duplicate) |
+| [0383-ransom-note](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0721-accounts-merge) |
@@ -438,4 +440,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0933-number-of-recent-calls) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
