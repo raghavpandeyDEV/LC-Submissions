@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0134-gas-station) |
+| [0149-max-points-on-a-line](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0149-max-points-on-a-line) |
 | [0205-isomorphic-strings](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0219-contains-duplicate-ii) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0069-sqrtx) |
+| [0149-max-points-on-a-line](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0368-largest-divisible-subset) |
@@ -459,4 +462,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0383-ransom-note) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
