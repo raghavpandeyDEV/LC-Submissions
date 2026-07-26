@@ -7,7 +7,7 @@ public:
 
       while(i<n){
         int start=nums[i];
-        while(i<n && nums[i]==nums[i+1]-1){
+        while(i+1<n && nums[i]==nums[i+1]-1){
            i++;
         }
         int end=nums[i];
