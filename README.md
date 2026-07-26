@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0078-subsets) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0200-number-of-islands) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0138-copy-list-with-random-pointer) |
