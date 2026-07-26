@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0127-word-ladder) |
+| [0392-is-subsequence](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0443-string-compression) |
 | [0678-valid-parenthesis-string](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0678-valid-parenthesis-string) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0443-string-compression) |
 | [0763-partition-labels](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0763-partition-labels) |
 | [1048-longest-string-chain](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1048-longest-string-chain) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0368-largest-divisible-subset) |
+| [0392-is-subsequence](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [1048-longest-string-chain](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1048-longest-string-chain) |
