@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0260-single-number-iii) |
+| [0289-game-of-life](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0334-increasing-triplet-subsequence) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0200-number-of-islands) |
+| [0289-game-of-life](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0289-game-of-life) |
 | [0994-rotting-oranges](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1020-number-of-enclaves) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0289-game-of-life) |
 | [2352-equal-row-and-column-pairs](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2352-equal-row-and-column-pairs) |
 ## Queue
 |  |
