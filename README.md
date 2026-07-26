@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0045-jump-game-ii) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0064-minimum-path-sum) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0127-word-ladder) |
