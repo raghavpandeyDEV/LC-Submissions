@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0133-clone-graph](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0133-clone-graph) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0127-word-ladder](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0133-clone-graph) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -404,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0146-lru-cache) |
