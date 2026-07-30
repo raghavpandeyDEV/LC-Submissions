@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0721-accounts-merge](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0802-find-eventual-safe-states) |
 | [0839-similar-string-groups](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0839-similar-string-groups) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0721-accounts-merge](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0802-find-eventual-safe-states) |
 | [0839-similar-string-groups](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0839-similar-string-groups) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0200-number-of-islands) |
 | [0721-accounts-merge](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0721-accounts-merge) |
+| [0785-is-graph-bipartite](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0785-is-graph-bipartite) |
 | [0839-similar-string-groups](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0839-similar-string-groups) |
 | [1020-number-of-enclaves](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0133-clone-graph) |
 | [0743-network-delay-time](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0841-keys-and-rooms) |
