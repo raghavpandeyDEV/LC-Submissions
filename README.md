@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2352-equal-row-and-column-pairs) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2542-maximum-subsequence-score](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2542-maximum-subsequence-score) |
 ## Greedy
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0872-leaf-similar-trees](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0872-leaf-similar-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -316,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Hash Table
 |  |
 | ------- |
@@ -344,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2352-equal-row-and-column-pairs) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Graph Theory
 |  |
 | ------- |
@@ -357,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1971-find-if-path-exists-in-graph](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Topological Sort
 |  |
 | ------- |
