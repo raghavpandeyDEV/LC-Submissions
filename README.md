@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0802-find-eventual-safe-states) |
 | [0839-similar-string-groups](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0839-similar-string-groups) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0802-find-eventual-safe-states) |
 | [0839-similar-string-groups](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0839-similar-string-groups) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0841-keys-and-rooms) |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0678-valid-parenthesis-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1048-longest-string-chain](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1048-longest-string-chain) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -455,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0743-network-delay-time](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2542-maximum-subsequence-score](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2542-maximum-subsequence-score) |
 ## Merge Sort
 |  |
@@ -509,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Number Theory
 |  |
