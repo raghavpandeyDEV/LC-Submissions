@@ -2,21 +2,21 @@ class Solution {
 public:
     bool isPossible(string&s1 , string&s2){
         //s1->larger string
-
         if(s1.size()!=s2.size()+1)return false;
-        int first=0;
-        int second=0;
+        
 
-        while(first<s1.size()){
-            if(second<s2.size() && s1[first]==s2[second]){
-                first++;
-                second++;
+        int i=0;
+        int j=0;
+        while(i<s1.size()){
+            if(j<s2.size() && s1[i]==s2[j]){
+                i++;
+                j++;
             }
             else{
-                first++;
+                i++;
             }
         }
-        if(first==s1.size() && second==s2.size())return true;
+        if(i==s1.size() && j==s2.size())return true;
         return false;
     }
     int longestStrChain(vector<string>& words) {
@@ -28,22 +28,18 @@ public:
          return a.size() < b.size();
      });
 
-		vector<int>dp(n, 1);
-		int maxi = INT_MIN;
-		int lastIndex = -1;
-		
-		for (int idx = 0; idx<n; idx++) {
-			for (int prv = 0; prv<idx; prv++) {
-				if (isPossible(words[idx] , words[prv]) && dp[prv] + 1 > dp[idx]) {
-					dp[idx] = dp[prv] + 1;
-				}
-			}
-			if (dp[idx]>maxi) {
-				maxi = dp[idx];
-				lastIndex = idx;
-			}
-		}
-		
-    return maxi;
+     vector<int>dp(n,1); 
+
+     int maxi=0;
+
+     for(int i=0;i<n;i++){
+        for(int prv=0;prv<i;prv++){
+            if(isPossible(words[i],words[prv])){
+                dp[i]=max(dp[i],dp[prv]+1);
+            }
+        }
+        maxi=max(maxi,dp[i]);
+     }
+  return maxi;
     }
 };
