@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1048-longest-string-chain) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Prefix Sum
 |  |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0739-daily-temperatures) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0146-lru-cache) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
