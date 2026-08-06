@@ -1,18 +1,21 @@
 class Solution {
 public:
     bool canConstruct(string ransomNote, string magazine) {
-        vector<int>hash(26,0);
+        unordered_map<char,int>mpp;
+
         for(int i=0;i<ransomNote.size();i++){
-            hash[ransomNote[i]-'a']++;
-        }
-        for(int i=0;i<magazine.size();i++){
-            if(hash[magazine[i]-'a']== 0)continue;
-            else hash[magazine[i]-'a']--;
+            mpp[ransomNote[i]]++;
         }
 
-        for(int i=0;i<26;i++){
-            if(hash[i]!=0)return false;
+        for(int i=0;i<magazine.size();i++){
+            if(mpp.find(magazine[i])!=mpp.end()){
+                mpp[magazine[i]]--;
+                if(mpp[magazine[i]]==0)mpp.erase(magazine[i]);
+            }
+
         }
-        return true;
+
+      return (mpp.size()==0);
+
     }
 };
