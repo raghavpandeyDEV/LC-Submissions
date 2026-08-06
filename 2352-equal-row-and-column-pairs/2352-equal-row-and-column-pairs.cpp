@@ -1,21 +1,33 @@
 class Solution {
 public:
     int equalPairs(vector<vector<int>>& grid) {
-        map<vector<int>, int> freq;
+        map<vector<int>,vector<int>>rows;
+        map<vector<int>,vector<int>>columns;
+
         int n=grid.size();
-
-        for (auto& row : grid)
-            freq[row]++;
-
-        int cnt = 0;
-
-        for (int j = 0; j < n; j++) {
-            vector<int> col;
-            for (int i = 0; i < n; i++)
-                col.push_back(grid[i][j]);
-
-            cnt += freq[col];
+        for(int i=0;i<n;i++){
+            vector<int>row;
+            for(int j=0;j<n;j++){
+              row.push_back(grid[i][j]);
+            }
+            rows[row].push_back(i);
         }
-        return cnt;
+
+        for(int j=0;j<n;j++){
+            vector<int>column;
+            for(int i=0;i<n;i++){
+              column.push_back(grid[i][j]);
+            }
+            columns[column].push_back(j);
+        }
+
+        int cnt=0;
+      
+       for(auto it : rows){
+        if(columns.find(it.first)!=columns.end()){
+            cnt+=(it.second.size()*columns[it.first].size());
+        }
+       }
+       return cnt;
     }
 };
