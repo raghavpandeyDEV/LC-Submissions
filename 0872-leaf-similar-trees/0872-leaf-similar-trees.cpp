@@ -10,35 +10,32 @@
  * };
  */
 class Solution {
-public: 
-   bool isLeaf(TreeNode*root){
-    if(root->left==NULL && root->right==NULL)return true;
-    return false;
-   }
+public:
+    bool isLeaf(TreeNode*root){
+        if(root->left==NULL && root->right==NULL)return true;
+        return false;
+    }
 
-    void traverse(TreeNode*root , vector<int>&ans){
+    void solve(TreeNode*root, vector<int>&ans){
         if(!root)return;
+      if(isLeaf(root))ans.push_back(root->val);
+      solve(root->left , ans);
+      solve(root->right,ans);
 
-        if(isLeaf(root)){
-            ans.push_back(root->val);
-            return;
-        }
-        traverse(root->left, ans);
-        traverse(root->right,ans);
-        
     }
     bool leafSimilar(TreeNode* root1, TreeNode* root2) {
-        vector<int>nums1 ;
-        vector<int>nums2 ;
-        traverse(root1,nums1);
-        traverse(root2,nums2);
+        vector<int>ans1;
+        vector<int>ans2;
 
-        if(nums1.size()!=nums2.size())return false;
-        
-        for(int i=0;i<nums1.size();i++){
-            if(nums1[i]!=nums2[i])return false;
+        solve(root1,ans1);
+        solve(root2,ans2);
+
+        if(ans1.size()!=ans2.size())return false;
+
+        for(int i=0;i<ans1.size();i++){
+            if(ans1[i]!=ans2[i])return false;
         }
-
-  return true;
+return true;
+        
     }
 };
