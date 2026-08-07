@@ -1,11 +1,12 @@
 class Solution {
 public:
     bool canVisitAllRooms(vector<vector<int>>& rooms) {
-        queue<int>q;
-        int n=rooms.size();
+        int n =rooms.size();
         vector<int>vis(n,-1);
-          vis[0]=1;
+
+        queue<int>q;
         q.push(0);
+        vis[0]=1;
 
         while(!q.empty()){
             int node=q.front();
@@ -18,8 +19,9 @@ public:
                 }
             }
         }
-        for(auto it : vis){
-            if(it==-1)return false;
+
+        for(int i=0;i<vis.size();i++){
+            if(vis[i]!=1)return false;
         }
         return true;
     }
