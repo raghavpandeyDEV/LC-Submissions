@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 ## Backtracking
 |  |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Simulation
 |  |
 | ------- |
