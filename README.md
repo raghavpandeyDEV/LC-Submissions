@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2368-reachable-nodes-with-restrictions](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2542-maximum-subsequence-score](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2542-maximum-subsequence-score) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2352-equal-row-and-column-pairs) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 ## Graph Theory
 |  |
 | ------- |
@@ -560,4 +562,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0300-longest-increasing-subsequence) |
+## Enumeration
+|  |
+| ------- |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 <!---LeetCode Topics End-->
