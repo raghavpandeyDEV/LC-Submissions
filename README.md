@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0763-partition-labels) |
+| [2405-optimal-partition-of-string](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2405-optimal-partition-of-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2542-maximum-subsequence-score](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2542-maximum-subsequence-score) |
 ## String
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2405-optimal-partition-of-string](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2405-optimal-partition-of-string) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 ## Backtracking
 |  |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2352-equal-row-and-column-pairs) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2405-optimal-partition-of-string](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2405-optimal-partition-of-string) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 ## Graph Theory
 |  |
