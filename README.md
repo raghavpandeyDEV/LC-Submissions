@@ -553,4 +553,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0149-max-points-on-a-line) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
