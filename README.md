@@ -576,4 +576,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
