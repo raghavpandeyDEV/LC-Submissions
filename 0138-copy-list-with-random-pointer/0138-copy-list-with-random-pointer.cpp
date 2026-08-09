@@ -17,33 +17,33 @@ public:
 class Solution {
 public:
     Node* copyRandomList(Node* head) {
-        // adding copy nodes btw org list
+        // create clone nodes and insert in btw org nodes
         Node*temp=head;
         while(temp){
-            Node*copyNode=new Node(temp->val);
-            copyNode->next=temp->next;
-            temp->next=copyNode;
+            Node*node=new Node(temp->val);
+            node->next=temp->next;
+            temp->next=node;
             temp=temp->next->next;
         }
-        // making copies point to its random copy
-        temp=head;
+         temp=head;
+        // connecting random ptrs
         while(temp && temp->next){
-            Node*copyNode=temp->next;
-            if(temp->random)copyNode->random=temp->random->next;
+            Node*clone=temp->next;
+           if(temp->random) clone->random=temp->random->next;
             temp=temp->next->next;
         }
-
-        //making copies point to next copy
-        Node*dummy=new Node(-1);
-        Node*res=dummy;
-
         temp=head;
-        while(temp){
-       res->next=temp->next;
-       temp->next=temp->next->next;
-       temp=temp->next;
-       res=res->next;
-        }
+        Node*dummy=new Node(-1);
+        Node*curr=dummy;
+
+       // connect next ptrs
+
+       while(temp){
+          curr->next=temp->next;
+          temp->next=temp->next->next;
+          temp=temp->next;
+          curr=curr->next;
+       }
         return dummy->next;
     }
 };
