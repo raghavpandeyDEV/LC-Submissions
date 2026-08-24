@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0498-diagonal-traverse](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0605-can-place-flowers) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0289-game-of-life) |
 | [0417-pacific-atlantic-water-flow](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0427-construct-quad-tree](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0427-construct-quad-tree) |
+| [0498-diagonal-traverse](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0994-rotting-oranges) |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0068-text-justification](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0289-game-of-life) |
+| [0498-diagonal-traverse](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0682-baseball-game) |
 | [2352-equal-row-and-column-pairs](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2352-equal-row-and-column-pairs) |
 ## Queue
