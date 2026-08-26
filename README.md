@@ -673,4 +673,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0279-perfect-squares) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
