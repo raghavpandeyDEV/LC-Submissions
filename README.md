@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2542-maximum-subsequence-score](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2542-maximum-subsequence-score) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [3731-find-missing-elements](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2368-reachable-nodes-with-restrictions](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2405-optimal-partition-of-string](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2405-optimal-partition-of-string) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [3731-find-missing-elements](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/3731-find-missing-elements) |
 ## Graph Theory
 |  |
 | ------- |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2542-maximum-subsequence-score](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2542-maximum-subsequence-score) |
+| [3731-find-missing-elements](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
