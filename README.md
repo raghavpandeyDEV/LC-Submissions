@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1732-find-the-highest-altitude) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2405-optimal-partition-of-string](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2405-optimal-partition-of-string) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0682-baseball-game) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2352-equal-row-and-column-pairs](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2352-equal-row-and-column-pairs) |
 ## Queue
 |  |
