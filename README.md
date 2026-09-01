@@ -703,4 +703,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0584-find-customer-referee](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0595-big-countries) |
+| [1683-invalid-tweets](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
