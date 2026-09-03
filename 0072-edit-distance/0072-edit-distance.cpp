@@ -20,13 +20,13 @@ public:
         dp[0][0]=0;
     
        //i==0
-       for(int j=1;j<=n2;j++){
-        dp[0][j]=j;
+       for(int j=0;j<=n2;j++){
+        dp[0][j]=j;  // not j+1
        }
 
        //j==0
-       for(int i=1;i<=n1;i++){
-        dp[i][0]=i;
+       for(int i=0;i<=n1;i++){
+        dp[i][0]=i; // not i+1
        }
 
        for(int i=1;i<=n1;i++){
