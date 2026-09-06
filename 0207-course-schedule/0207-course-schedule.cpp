@@ -1,41 +1,46 @@
 class Solution {
 public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-    int n=numCourses;
-    vector<int>ans;
-    vector<int>indegree(n,0);
-    vector<vector<int>>adj(n);
-    queue<int>q;
+        // there should be no cylicity 
+        // Kahn's algo -> DAG 
+        int n=numCourses;
 
-    for(int i=0;i<prerequisites.size();i++){
-         int task=prerequisites[i][0];
-         int pre=prerequisites[i][1];
-         adj[pre].push_back(task);
-         indegree[task]++;
-    }
+        vector<int>ans; // topo sort
+        vector<int>indegree(n);
+        vector<vector<int>>adj(n);
 
-    for(int i=0;i<n;i++){
-        if(indegree[i]==0){
-            q.push(i);
+        for(auto it : prerequisites){
+            //u->v
+         int u=it[0];
+         int v=it[1]; 
+         adj[u].push_back(v);
         }
 
-    }
-
-    while(!q.empty()){
-        int node=q.front();
-        q.pop();
-        ans.push_back(node);
-
-        for(auto it : adj[node]){
-            indegree[it]--;
-
-            if(indegree[it]==0){
-                q.push(it);
+        for(int i=0;i<n;i++){
+            for(auto it : adj[i]){
+                indegree[it]++;
             }
         }
-    }
-    if(ans.size()==n)return true;
-    return false;
+         
+         queue<int>q;
+
+        for(int i=0;i<n;i++){
+          if(indegree[i]==0)q.push(i);
+        }
+
+        while(!q.empty()){
+            int node=q.front();
+            ans.push_back(node);
+            q.pop();
+
+            for(auto it : adj[node]){
+                indegree[it]--;
+                if(indegree[it]==0)q.push(it);
+            }
+        }
+        if(ans.size()==n)return true;
+        return false;
         
+
     }
 };
