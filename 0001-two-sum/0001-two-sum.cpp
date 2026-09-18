@@ -5,7 +5,7 @@ public:
     unordered_map<int,int>mpp;
     for(int i=0;i<nums.size();i++){
         int rem=target-nums[i];
-        if(mpp.find(rem)!=mpp.end()){
+        if(mpp.find(rem)!=mpp.end()){//if in the map
             ans.push_back(i);
             ans.push_back(mpp[rem]);
             break;
