@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2405-optimal-partition-of-string](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2405-optimal-partition-of-string) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2938-separate-black-and-white-balls](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2938-separate-black-and-white-balls) |
+| [3498-reverse-degree-of-a-string](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/3498-reverse-degree-of-a-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -648,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0682-baseball-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2352-equal-row-and-column-pairs](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2352-equal-row-and-column-pairs) |
+| [3498-reverse-degree-of-a-string](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/3498-reverse-degree-of-a-string) |
 ## Queue
 |  |
 | ------- |
