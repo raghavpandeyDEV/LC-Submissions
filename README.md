@@ -605,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0368-largest-divisible-subset) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3875-construct-uniform-parity-array-i](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -668,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0149-max-points-on-a-line) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
