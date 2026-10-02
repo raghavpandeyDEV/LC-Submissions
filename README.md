@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0680-valid-palindrome-ii) |
 | [0721-accounts-merge](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0721-accounts-merge) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0763-partition-labels) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0721-accounts-merge) |
 | [0763-partition-labels](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0763-partition-labels) |
 | [0839-similar-string-groups](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0839-similar-string-groups) |
@@ -639,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0658-find-k-closest-elements) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
