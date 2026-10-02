@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0695-max-area-of-island) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0721-accounts-merge) |
 | [0763-partition-labels](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0763-partition-labels) |
 | [0839-similar-string-groups](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0839-similar-string-groups) |
@@ -493,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0621-task-scheduler](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0721-accounts-merge) |
 | [1048-longest-string-chain](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1048-longest-string-chain) |
@@ -566,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0295-find-median-from-data-stream) |
+| [0621-task-scheduler](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0743-network-delay-time) |
@@ -671,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0383-ransom-note) |
+| [0621-task-scheduler](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0621-task-scheduler) |
 ## Geometry
 |  |
 | ------- |
