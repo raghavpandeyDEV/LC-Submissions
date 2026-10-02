@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1048-longest-string-chain) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0763-partition-labels](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0846-hand-of-straights) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2405-optimal-partition-of-string](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2405-optimal-partition-of-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0846-hand-of-straights) |
 | [0981-time-based-key-value-store](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0981-time-based-key-value-store) |
 | [1048-longest-string-chain](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1048-longest-string-chain) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2352-equal-row-and-column-pairs) |
@@ -504,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0846-hand-of-straights) |
 | [1048-longest-string-chain](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1048-longest-string-chain) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2410-maximum-matching-of-players-with-trainers) |
