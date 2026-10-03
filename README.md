@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0695-max-area-of-island) |
+| [0706-design-hashmap](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0706-design-hashmap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0733-flood-fill) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0706-design-hashmap](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0706-design-hashmap) |
 | [0933-number-of-recent-calls](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0933-number-of-recent-calls) |
 | [0981-time-based-key-value-store](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0981-time-based-key-value-store) |
 ## Bit Manipulation
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0621-task-scheduler) |
+| [0706-design-hashmap](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0706-design-hashmap) |
 | [0721-accounts-merge](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0721-accounts-merge) |
 | [0763-partition-labels](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0763-partition-labels) |
 | [0839-similar-string-groups](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0839-similar-string-groups) |
@@ -571,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0146-lru-cache) |
+| [0706-design-hashmap](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0706-design-hashmap) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Heap (Priority Queue)
 |  |
@@ -724,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0572-subtree-of-another-tree) |
+| [0706-design-hashmap](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0706-design-hashmap) |
 ## Binary Lifting
 |  |
 | ------- |
