@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0746-min-cost-climbing-stairs) |
 | [0839-similar-string-groups](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0839-similar-string-groups) |
 | [0846-hand-of-straights](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0846-hand-of-straights) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0994-rotting-oranges](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/1046-last-stone-weight) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0658-find-k-closest-elements](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0981-time-based-key-value-store](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0981-time-based-key-value-store) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Binary Tree
@@ -773,4 +775,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0207-course-schedule) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
