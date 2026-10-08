@@ -17,33 +17,23 @@ public:
 class Solution {
 public:
     Node* copyRandomList(Node* head) {
-        // create clone nodes and insert in btw org nodes
+        unordered_map<Node*,Node*>mpp;
+
         Node*temp=head;
+
         while(temp){
-            Node*node=new Node(temp->val);
-            node->next=temp->next;
-            temp->next=node;
-            temp=temp->next->next;
+            Node*dummy = new Node(temp->val);
+            mpp[temp]=dummy;
+            temp=temp->next;
         }
-         temp=head;
-        // connecting random ptrs
-        while(temp && temp->next){
-            Node*clone=temp->next;
-           if(temp->random) clone->random=temp->random->next;
-            temp=temp->next->next;
-        }
+
         temp=head;
-        Node*dummy=new Node(-1);
-        Node*curr=dummy;
-
-       // connect next ptrs
-
-       while(temp){
-          curr->next=temp->next;
-          temp->next=temp->next->next;
-          temp=temp->next;
-          curr=curr->next;
-       }
-        return dummy->next;
+        while(temp){
+            Node*dummy=mpp[temp];
+            dummy->next=mpp[temp->next];
+            dummy->random=mpp[temp->random];
+            temp=temp->next;
+        }
+        return mpp[head];
     }
 };
