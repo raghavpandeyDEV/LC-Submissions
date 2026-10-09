@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void solve(int idx , vector<int>&vis ,vector<int>& nums, vector<int>&temp,vector<vector<int>>&ans){
+    void solve( vector<int>&vis ,vector<int>& nums, vector<int>&temp,vector<vector<int>>&ans){
         if(temp.size()==nums.size()){
             ans.push_back(temp);
             return;
@@ -9,7 +9,7 @@ public:
             if(vis[i]==-1){
                 temp.push_back(nums[i]);
                 vis[i]=1;
-                solve(idx+1,vis,nums,temp,ans);
+                solve(vis,nums,temp,ans);
                 temp.pop_back();
                 vis[i]=-1;
             }
@@ -20,7 +20,7 @@ public:
         vector<int>vis(n,-1);
         vector<int>temp;
         vector<vector<int>>ans;
-        solve(0,vis,nums,temp,ans);
+        solve(vis,nums,temp,ans);
         return ans;
         
     }
