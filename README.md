@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/3904-smallest-stable-index-ii) |
+| [4057-number-of-intersecting-interval-pairs-ii](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0981-time-based-key-value-store](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/0981-time-based-key-value-store) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [4057-number-of-intersecting-interval-pairs-ii](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2542-maximum-subsequence-score](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/2542-maximum-subsequence-score) |
 | [3731-find-missing-elements](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/3731-find-missing-elements) |
+| [4057-number-of-intersecting-interval-pairs-ii](https://github.com/raghavpandeyDEV/LC-Submissions/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
